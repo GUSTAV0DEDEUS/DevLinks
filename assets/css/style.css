@@ -39,7 +39,7 @@ body{
 }
 
 #container{
-  width: 360px;
+  max-width: 580px;
   margin: 56px auto 0px;
   padding: 0 24px;
 }
@@ -60,7 +60,7 @@ body{
 }
 
 #switch{
-  margin: 0px auto 24px;
+  margin: 0px auto;
   position: relative;
   width: 64px;
 }
